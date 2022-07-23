@@ -67,11 +67,11 @@ const Sidebar = () => {
             <SettingsApplicationsIcon className="icon" />
             <span>Settings</span>
           </li>
+          <p className="title">USER</p>
           <li>
             <AccountCircleOutlinedIcon className="icon" />
             <span>Profile</span>
           </li>
-          <p className="title">USER</p>
           <li>
             <LogoutIcon className="icon" />
             <span>Logout</span>
